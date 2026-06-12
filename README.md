@@ -1,4 +1,4 @@
-Prototype Sistem Monitoring Kecepatan (RPM) dan Bahan Bakar Berbasis IoT
+Prototype: IoT-Based Vehicle Speed and Fuel Consumption Monitoring System Using ESP32
 ​Proyek ini adalah sistem pemantauan kondisi kendaraan secara real-time yang dirancang untuk efisiensi operasional dengan memanfaatkan mikrokontroler ESP32 dan platform Blynk IoT.
 ​📋 Deskripsi Proyek
 ​Sistem ini memantau dua parameter utama kendaraan:
